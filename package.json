@@ -45,7 +45,7 @@
     "vite": "5.1.6",
     "vite-plugin-dts": "3.7.3"
   },
-  "version": "2.4.0",
+  "version": "2.5.0",
   "dependencies": {
     "camera-controls": "^2.9.0"
   }
